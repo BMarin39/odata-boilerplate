@@ -68,7 +68,7 @@
 									useExportToExcel="true"
 									useVariantManagement="false"
 									useTablePersonalisation="true"
-									header="Members"
+									header="{i18n>members}"
 									showRowCount="true"
 									enableAutoBinding="true"
 									demandPopin="true"/>
